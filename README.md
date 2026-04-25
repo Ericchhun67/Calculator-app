@@ -24,5 +24,7 @@ Add keyboard support
 Add a delete/backspace button
 Improve mobile responsiveness
 Add more advanced calculator functions
+
+
 Author
 Created by Eric Chhun.
