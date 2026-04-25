@@ -1,36 +1,34 @@
-<p align="center"> <img src="./assets/umbreon-calculator.svg" width="650" alt="Animated Umbreon-inspired character tapping calculator buttons" /> </p> <h1 align="center">Simple Calculator</h1> <p align="center"> A playful browser-based calculator built with HTML, CSS, and JavaScript for quick everyday arithmetic. </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=37D67A&center=true&vCenter=true&width=650&lines=Tap+numbers;Choose+an+operator;Calculate+the+result;Clear+and+try+again" alt="Typing animation showing calculator steps" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1212,50:10BE41,100:E4EEEB&height=190&section=header&text=Simple%20Calculator&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=HTML%20%7C%20CSS%20%7C%20JavaScript&descAlignY=58&descSize=18" alt="Simple Calculator animated header" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=10BE41&center=true&vCenter=true&width=650&lines=Tap+numbers;Choose+an+operator;Calculate+your+answer;Clear+and+try+again" alt="Typing animation showing calculator steps" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/197.gif" width="90" alt="Animated Umbreon" /> </p> <p align="center"> A simple browser-based calculator built with HTML, CSS, and JavaScript for quick everyday arithmetic. </p> <p align="center"> <img src="https://img.shields.io/badge/HTML-Calculator-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge" /> <img src="https://img.shields.io/badge/CSS-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS badge" /> <img src="https://img.shields.io/badge/JavaScript-Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge" /> </p>
 Overview
-Simple Calculator is a small web app for performing basic math operations directly in the browser. It includes a display screen, number buttons, operator buttons, a decimal button, an equals button, and a clear button.
+Simple Calculator is a lightweight web app that performs basic math operations directly in the browser. It includes a clean display, number buttons, operator buttons, decimal input, an equals button, and a clear button.
 
-Preview
-<p align="center"> <img src="./assets/calculator-screenshot.png" width="420" alt="Screenshot of the Simple Calculator app showing the result 19" /> </p>
 Features
 Add, subtract, multiply, and divide numbers
 Enter decimal values
 Clear the calculator display
-Simple responsive layout centered on the page
-Built with plain HTML, CSS, and JavaScript
-Technologies Used
+Use a simple button-based interface
+Run directly in the browser with no installation required
+Built With
 HTML
 CSS
 JavaScript
 Project Structure
 calculatorApp/
-├── assets/
-│   ├── calculator-screenshot.png
-│   └── umbreon-calculator.svg
 ├── css/
 │   └── styles.css
-└── templates/
-    └── index.html
+├── templates/
+│   └── index.html
+└── README.md
 Getting Started
-No installation is required.
+No setup is required.
 
-Clone or download this repository.
-Open templates/index.html in a web browser.
-Use the calculator buttons to enter and calculate expressions.
+Download or clone this repository.
+Open templates/index.html in your web browser.
+Use the calculator buttons to enter and solve expressions.
 Future Improvements
 Add keyboard support
-Improve error handling
 Add a delete/backspace button
+Improve mobile responsiveness
 Add more advanced calculator functions
+Author
+Created by Eric Chhun.
