@@ -1,0 +1,66 @@
+/* Styles for the calculator app */
+
+
+body {
+    /* set the font family */
+    font-family: Arial, sans-serif; 
+    /* set the background color */
+    background-color: #e4eeeb;
+    /* center the calculator */
+    display: flex;
+    /* center the calculator horizontally */
+    justify-content: center;
+    /* center the calculator vertically */
+    align-items: center;
+    /* set the height to full viewport */
+    height: 100vh;
+}
+
+.calculator {
+    background-color: #e6ede8;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+}
+
+
+.display {
+    background-color: #6a1212;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-align: right;
+    font-size: 24px;
+    height: 50px;
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+.button {
+    background-color: #10be41;
+    border: none;
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #0ea636;
+}
+
+.button.operator {
+    background-color: #6a1212;
+    color: white;
+} 
+
+.button.operator:hover {
+    background-color: #5a1010;
+}
+
