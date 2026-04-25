@@ -13,13 +13,13 @@ HTML
 CSS
 JavaScript
 
-##Project Structure
 calculatorApp/
 ├── css/
 │   └── styles.css
 ├── templates/
 │   └── index.html
 └── README.md
+
 Getting Started
 No setup is required.
 
