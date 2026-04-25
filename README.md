@@ -12,7 +12,8 @@ Built With
 HTML
 CSS
 JavaScript
-Project Structure
+
+##Project Structure
 calculatorApp/
 ├── css/
 │   └── styles.css
